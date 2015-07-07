@@ -10,7 +10,7 @@ import android.text.TextUtils;
  * User: Jiang Qi
  * Date: 12-7-30
  */
-// 同步测试。
+// 同步测试。已修改编码。
 public class AccountBean implements Parcelable {
 
     private String access_token;
