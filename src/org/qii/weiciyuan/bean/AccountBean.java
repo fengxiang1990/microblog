@@ -10,6 +10,7 @@ import android.text.TextUtils;
  * User: Jiang Qi
  * Date: 12-7-30
  */
+// Õ¨≤Ω≤‚ ‘°£
 public class AccountBean implements Parcelable {
 
     private String access_token;
