@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/code/studio/weiciyuan/build/generated/res/generated/androidTest/debug/values/generated.xml -->
+    <eat-comment/>
+    <string name="applicationId">org.qii.weiciyuan.debug</string>
+    <string name="weiciyuanOfficalWeiboName">org.qii.weiciyuan.debug.mention://@四次元App</string>
+</resources>
